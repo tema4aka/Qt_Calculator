@@ -1,5 +1,5 @@
 # Qt_Calculator
-Qt, C++, qmake
+
 
 
 Simple calculator
